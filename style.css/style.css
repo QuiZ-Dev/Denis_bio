@@ -1,0 +1,254 @@
+*:after,
+*:before{
+    box-sizing: border-box;}
+body{
+    background-size: contain;
+    position: absolute;
+width: 1445px;
+height: 4759px;
+left: 0px;
+top: 0px;
+
+}
+.container{
+    width: 90%;
+    max-width: 1060px;
+    margin:auto;
+    
+}
+.header{
+    display: flex;
+    align-items: center;
+}
+.nav{
+    margin-left: 252px;
+    
+    
+    
+}
+.nav__link{
+    text-decoration: none;
+    padding-right: 100px;
+    color: #828282;
+    font-size: 18px;
+    line-height: 22px;
+    margin-right: 60px;
+   
+    
+    
+}
+.nav :hover{
+    color: black;
+}
+.line{
+    position: absolute;
+    width: 940.6px;
+    height: 0px;
+    left: 250.69px;
+    top: 87.94px;
+
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    margin-top: -32px;
+}
+.bio{
+    
+   padding-top: 75px;
+   margin: auto;
+   align-items: center;
+   
+}
+.bio__name{
+    font-size: 47.3392px;
+    line-height: 59px;
+    display: inline-block;
+    padding-left: 250px;
+}
+.bio__who{
+    font-size: 18px;
+    line-height: 22px;
+    display: inline-block;
+    padding-left: 297px;
+}
+.img{
+    padding-left: 250px;
+    
+}
+.ru{
+    padding-left: 350px;
+    display: inline-block;
+}
+.about{
+    background-color: #F6F6F6;
+    position: absolute;
+    width: 1445px;
+    height: 346px;
+    left: 0px;
+    top: 768px;
+    padding-top: 120px;
+    
+
+    
+}
+.about__me{
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    padding-left: 645px;
+        
+}
+.about__text{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 18px;
+}
+.skills{
+    padding-top:650px;
+    margin: auto;
+    text-align: center;
+    align-items: center;
+}
+.skills__programs{
+    display: inline-block;
+    margin:70px;
+}
+.skills__skills{
+    font-size: 34px;
+    line-height: 42px;
+    
+}
+.skills__what{
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 30px;
+    
+}
+.star{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url("img/Star.svg") center no-repeat;
+}
+.slider__rating-label{
+    margin-right: 10px;
+}
+.star-0{
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    background: url("img/Star-1.svg") center no-repeat;
+}
+.portfolio{
+    background: #F6F6F6;
+    position: absolute;
+    width: 1445px;
+    height: 2253px;
+    left: 0px;
+    top: 1884px;
+}
+.portfolio__title{
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    padding-bottom: 47px;
+    padding-top: 100px;
+}
+.fashion{
+    text-align: center;
+    position: absolute;
+    height: 510px;
+    left: 257.71px;
+}
+.fashion__title{
+    
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    padding-top: 540px;
+}
+.reebok{
+    position: absolute;
+    height: 522px;
+    left: 256.89px;
+    margin-top: 40px;
+    margin-left: -127px;
+}
+.reebok__title{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    margin-top: 610px;
+    margin-left: 510px;
+    
+}
+.broun{
+    position: absolute;
+    width: 936.24px;
+    height: 522px;
+    height: 522px;
+    left: 252.7px;
+    margin-top: 780px;
+    padding-left: 10px;
+}
+.broun__title{
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    padding-top: 1340px;
+    padding-left: 50px;
+}
+.contacts{
+    
+    
+}
+.contacts__title{
+    position: absolute;
+    left: 44.89%;
+    right: 45.03%;
+    top: 89.33%;
+    bottom: 9.76%;
+    font-size: 34px;
+    line-height: 42px;
+    text-align: center;
+    
+}
+.contacts__what{
+    position: absolute;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    margin-top: 2550px;
+    margin-left: 595px;
+}
+.img__contacts{
+    padding-top: 2750px;
+    padding-left: 220px;
+    position: relative;
+    display: inline-block;
+    margin-left: 30px;
+}
+.btn{
+    position: absolute;
+    width: 180.5px;
+    height: 42px;
+    left: 634.76px;
+    top: 4388px;
+    background-color: black;
+    color: #F6F6F6;
+    border-radius: 300px;
+    display: block;
+    border: none;
+    margin-top: 50px;
+}
+.contacts__like{
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    padding-top: 50px;
+}
